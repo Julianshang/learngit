@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Shared work zone?
 Git can merge branches whith no-ff.
+Git Fast-Forward merge.
